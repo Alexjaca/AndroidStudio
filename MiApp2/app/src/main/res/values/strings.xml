@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiApp2</string>
+    <string name="txt_resultado"></string>
+    <string name="primera_nota">1° Parcial</string>
+    <string name="segunda_nota">2° Parcial</string>
+    <string name="tercera_nota">3° Parcial</string>
+    <string name="boton_resultado">EVALUAR</string>
+</resources>

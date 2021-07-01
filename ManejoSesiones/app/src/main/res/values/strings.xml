@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ManejoSesiones</string>
+    <string name="name_user">Nombre de Usuario</string>
+    <string name="pass_user">Password del Ususario</string>
+    <string name="Button1">ACCEDER</string>
+    <string name="Button2">LOGOUT</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppRadioBoton</string>
+    <string name="primervalor">Primer Valor</string>
+    <string name="segundovalor">Segundo Valor</string>
+    <string name="RadioSuma">Sumar</string>
+    <string name="RadioResta">Restar</string>
+    <string name="RadioMultiplicacion">Multiplicar</string>
+    <string name="RadioDividir">Dividir</string>
+    <string name="boton">CALCULAR.</string>
+    <string name="titulo">PRUEBA RADIO BOTON</string>
+</resources>

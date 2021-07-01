@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="Valor1">Valor 1</string>
+    <string name="Valor2">Valor 2</string>
+    <string name="Sumar">Sumar</string>
+    <string name="Restar">Restar</string>
+    <string name="Calcular">Calcular</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="app_paris">Paris</string>
+    <string name="app_londres">Londres</string>
+    <string name="app_berlin">Berlin</string>
+    <string name="app_botonenviar">Enviar</string>
+</resources>

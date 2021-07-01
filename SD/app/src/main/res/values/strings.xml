@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SD</string>
+    <string name="NombreArchivo">Ingrese Nombre</string>
+    <string name="Contenido">Ingrese Contenido..</string>
+    <string name="BotonGuardar">GUARDAR</string>
+    <string name="BotonConsultar">CONSULTAR</string>
+</resources>

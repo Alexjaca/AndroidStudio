@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="59dp" />
+
+    <EditText
+        android:id="@+id/editTextNum1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/Valor1"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/editTextNum2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/Valor2"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="59dp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioButtonSumar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CheckSumar" />
+
+        <RadioButton
+            android:id="@+id/radioButtonRestar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CheckRestar" />
+
+        <RadioButton
+            android:id="@+id/radioButtonMultiplicar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CheckMultiplicar" />
+
+        <RadioButton
+            android:id="@+id/radioButtonDividir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CheckDividir" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonCalculo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Calcular"
+        android:text="@string/Btn_calc"
+        app:iconTint="#EC5050" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="59dp" />
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:text="@string/TxtViewRes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+</LinearLayout>

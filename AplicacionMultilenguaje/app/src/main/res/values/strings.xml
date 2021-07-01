@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplicacion Multilenguaje</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">contraseña</string>
+    <string name="Ingresar">Iniciar Sesión</string>
+    <string name="derechos">Todos los derechos reservados</string>
+</resources>

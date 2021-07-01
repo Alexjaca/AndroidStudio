@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="app_boton">Contar</string>
+    <string name="app_texto">0</string>
+</resources>

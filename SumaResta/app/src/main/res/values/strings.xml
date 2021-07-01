@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SumaResta</string>
+    <string name="Valor1">Ingresa el primer Valor</string>
+    <string name="Valor2">Ingresa el segundo Valor</string>
+    <string name="CheckSumar">Sumar</string>
+    <string name="CheckRestar">Restar</string>
+    <string name="Btn_calc">Calcular</string>
+    <string name="TxtViewRes">Resultado</string>
+    <string name="CheckMultiplicar">Multiplicar</string>
+    <string name="CheckDividir">Dividir</string>
+</resources>

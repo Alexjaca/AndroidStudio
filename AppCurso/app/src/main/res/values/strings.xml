@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCurso</string>
+    <string name="app_boton1">Aceptar</string>
+    <string name="app_textonombre">Ingresa Nombre</string>
+</resources>

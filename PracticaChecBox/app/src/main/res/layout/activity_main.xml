@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="98dp" />
+
+    <EditText
+        android:id="@+id/editTextNum1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/Num1"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/editTextNum2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/Num2"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="61dp" />
+
+    <CheckBox
+        android:id="@+id/checkBoxSumar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/BoxSumar" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRestar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/BoxRestar" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="65dp" />
+
+    <Button
+        android:id="@+id/buttonCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Operacion"
+        android:text="@string/BotonCalcular" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="56dp" />
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="match_parent"
+        android:layout_height="169dp"
+        android:text="@string/ViewResult"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+</LinearLayout>

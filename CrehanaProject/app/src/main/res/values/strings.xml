@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EntrenaMix</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Password</string>
+    <string name="Password2">Verifica Password</string>
+    <string name="Ingresar">Comenzar a Entrenar</string>
+    <string name="Registrarte">Registrarte</string>
+    <string name="ImagenPrincipal">ImagenPrincipal</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Correo">Correo</string>
+    <string name="Cedula">Documento de Identidad</string>
+    <string name="Cedula2">Documento</string>
+    <string name="Loguear">Ya eres usuario</string>
+    <string name="Mujer">Mujer</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Peso">Peso (kg)</string>
+    <string name="Estatura">Estatura (cm)</string>
+    <string name="Edad">Edad</string>
+    <string name="Calcular">Calcular</string>
+    <string name="ItemSalir">Salir</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Editar">Editar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Calculo">Calcula Tu Taza Metabolica Basal</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Femenino">Femenino</string>
+
+</resources>
